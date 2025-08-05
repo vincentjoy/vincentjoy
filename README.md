@@ -118,9 +118,9 @@ A space where I document my journey through iOS development, React Native, Djang
 
 I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge about mobile and web development.
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/vincentjoy)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 **LinkedIn**: [vincentjoyhere](https://www.linkedin.com/in/vincentjoyhere/)
+- 📧 **Email**: [vincentjoyhere@gmail.com](mailto:vincentjoyhere@gmail.com)
+- 🐦 **Twitter**: [@vincentjoyhere](https://x.com/vincentjoyhere)
 - ✍️ **Blog**: [Code Joy](https://code-joy.hashnode.dev) - Technical insights and tutorials
 
 ---
