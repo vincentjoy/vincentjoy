@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate mobile and web developer with **11 years of native iOS development experience** using Swift, **2 years in React Native** with Expo and JavaScript, and **1 year in Django and Python**. I love building innovative applications and exploring cutting-edge technologies like VisionOS and AR.
+I'm a passionate mobile and web developer with **11 years of native iOS development experience** using Swift, **3 years in React Native** with Expo and JavaScript, and **2 yeara in Django and Python**. I love building innovative applications and exploring cutting-edge technologies like VisionOS and AR.
+
+✍️ **Technical Writer**: I share my development insights and tutorials on my blog **[Code Joy](https://code-joy.hashnode.dev)** where I write about iOS development, React Native, and software engineering best practices.
 
 ## 🛠️ Tech Stack
 
@@ -75,6 +77,22 @@ I'm a passionate mobile and web developer with **11 years of native iOS developm
 
 ---
 
+## ✍️ Technical Writing & Blog
+
+I regularly share my development experiences, tutorials, and insights on my technical blog:
+
+### 📝 [Code Joy Blog](https://code-joy.hashnode.dev)
+A space where I document my journey through iOS development, React Native, Django, and emerging technologies like VisionOS. Topics include:
+- Swift and iOS development best practices
+- React Native tips and tricks
+- Django REST API development
+- AR/VR development insights
+- Software engineering methodologies
+
+*"Sharing knowledge makes the entire developer community stronger"* 🌟
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -92,6 +110,7 @@ I'm a passionate mobile and web developer with **11 years of native iOS developm
 - 🌐 **Full-stack** capabilities with Django REST APIs
 - 🤖 **AI Integration** experience with machine learning features
 - 📦 **Open Source** contributor with multiple MIT-licensed SDKs
+- ✍️ **Technical Writer** sharing knowledge through blog posts and tutorials
 
 ---
 
@@ -99,16 +118,15 @@ I'm a passionate mobile and web developer with **11 years of native iOS developm
 
 I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge about mobile and web development.
 
-- 💼 **LinkedIn**: [vincentjoyhere](https://www.linkedin.com/in/vincentjoyhere/)
-- 📧 **Email**: [vincentjoyhere@gmail.com](mailto:vincentjoyhere@gmail.com)
-- 🐦 **Twitter**: [@vincentjoyhere](https://x.com/vincentjoyhere)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/vincentjoy)
+- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- ✍️ **Blog**: [Code Joy](https://code-joy.hashnode.dev) - Technical insights and tutorials
 
 ---
 
 <div align="center">
   
 **"Building the future, one line of code at a time"** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=vincentjoy&color=brightgreen)
 
 </div>
