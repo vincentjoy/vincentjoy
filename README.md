@@ -1,7 +1,7 @@
 # Hi there, I'm Vincent Joy! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/vincentjoy?label=Follow&style=social)](https://github.com/vincentjoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vincentjoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vincentjoyhere/)
 
 ## 🚀 About Me
 
