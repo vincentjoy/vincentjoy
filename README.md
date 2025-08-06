@@ -5,7 +5,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate mobile and web developer with **11 years of native iOS development experience** using Swift, **3 years in React Native** with Expo and JavaScript, and **2 yeara in Django and Python**. I love building innovative applications and exploring cutting-edge technologies like VisionOS and AR.
+Seasoned Software Engineer with 11 years of experience specializing in native iOS development using Swift, SwiftUI and UIKit. Additional expertise in cross-platform mobile development with React Native and backend API development using Django REST Framework. Proficient in Swift, JavaScript, and Python.
+
+Throughout my career, I have balanced roles as a team lead, mentor, code architect, individual contributor and solo developer. I have contributed to products across diverse environments, from early-stage startups to publicly listed companies, spanning industries such as AI, IoT, Travel & Hospitality, Ride Hailing, Navigation, E-commerce and Streaming. .
+
+Currently I am exploring possibilities in the emerging fields of AI and AR/VR, by developing applications in Generative AI and Vision OS, via personal projects.
 
 ✍️ **Technical Writer**: I share my development insights and tutorials on my blog **[Code Joy](https://code-joy.hashnode.dev)** where I write about iOS development, React Native, and software engineering best practices.
 
