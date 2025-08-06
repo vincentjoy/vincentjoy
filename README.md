@@ -34,19 +34,19 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 
 ### 🎨 SwiftUI Applications
 - **[FitnessAgent](https://github.com/vincentjoy/FitnessAgent)** - A SwiftUI app to track fitness activities
-- **[CoreDataBootCamp](https://github.com/vincentjoy/CoreDataBootCamp)** - Implementation of Core Data in SwiftUI
 - **[SwiftfulSwiftUiInPractice](https://github.com/vincentjoy/SwiftfulSwiftUiInPractice)** - Advanced SwiftUI skills development project
-- **[ARWeatherAppApp](https://github.com/vincentjoy/ARWeatherAppApp)** - Augmented reality weather app built with SwiftUI
+- **[ChargerScheduler](https://github.com/vincentjoy/ChargerScheduler)** - Efficient scheduling application for EV truck chargers
 
-### 🥽 VisionOS Development
+### 🥽 VisionOS & AR/VR Development
 - **[WindowsProject](https://github.com/vincentjoy/WindowsProject)** - My first VisionOS application
 - **[VisionOS_WithSwiftData](https://github.com/vincentjoy/VisionOS_WithSwiftData)** - Vision OS app utilizing Apple's SwiftData persistence framework
+- **[VoiceARRobot](https://github.com/vincentjoy/VoiceARRobot)** - AR app featuring a voice-controlled AI assistant
+- **[HelloWorldForAR](https://github.com/vincentjoy/HelloWorldForAR)** - First AR project using Apple's SceneKit
+- **[ARWeatherAppApp](https://github.com/vincentjoy/ARWeatherAppApp)** - Augmented reality weather app built with SwiftUI
 
 ### 🔗 Advanced iOS Features
 - **[SwiftConcurrencyBootCamp](https://github.com/vincentjoy/SwiftConcurrencyBootCamp)** - Exploring Swift concurrency patterns and async/await
-- **[ChargerScheduler](https://github.com/vincentjoy/ChargerScheduler)** - Efficient scheduling application for EV truck chargers
-- **[VoiceARRobot](https://github.com/vincentjoy/VoiceARRobot)** - AR app featuring a voice-controlled AI assistant
-- **[HelloWorldForAR](https://github.com/vincentjoy/HelloWorldForAR)** - First AR project using Apple's SceneKit
+- **[CoreDataBootCamp](https://github.com/vincentjoy/CoreDataBootCamp)** - Implementation of Core Data in SwiftUI
 
 ---
 
@@ -68,10 +68,10 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 ## 🐍 Python & Django Projects
 
 ### 🎬 Web Applications
-- **[CineMuse](https://github.com/vincentjoy/CineMuse)** - AI-powered movie recommendation system with poster recognition
 - **[movies_db](https://github.com/vincentjoy/movies_db)** - Movie database management system
 - **[ecommerce](https://github.com/vincentjoy/ecommerce)** - Django REST Framework e-commerce API
 - **[blog](https://github.com/vincentjoy/blog)** - Sample blog application for Django learning
+- **[CineMuse](https://github.com/vincentjoy/CineMuse)** - AI-powered movie recommendation system with poster recognition
 
 ### 🛠️ API Development
 - **[recipe-app-api](https://github.com/vincentjoy/recipe-app-api)** - Recipe management API built with Django
