@@ -86,11 +86,12 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 I regularly share my development experiences, tutorials, and insights on my technical blog:
 
 ### 📝 [Code Joy Blog](https://code-joy.hashnode.dev)
-A space where I document my journey through iOS development, React Native, Django, and emerging technologies like VisionOS. Topics include:
+A space where I document my journey through iOS development, React Native, Django, and emerging technologies like GenAI and VisionOS. Topics include:
 - Swift and iOS development best practices
 - React Native tips and tricks
 - Django REST API development
 - AR/VR development insights
+- IoT and AI
 - Software engineering methodologies
 
 *"Sharing knowledge makes the entire developer community stronger"* 🌟
@@ -110,6 +111,7 @@ A space where I document my journey through iOS development, React Native, Djang
 
 - 🎯 **11 years** of native iOS development expertise
 - 📱 **VisionOS** early adopter with spatial computing apps
+- 🛜 **IoT** expert in IoT application integration in mobile apps
 - 🔄 **Cross-platform** experience with React Native and Expo
 - 🌐 **Full-stack** capabilities with Django REST APIs
 - 🤖 **AI Integration** experience with machine learning features
