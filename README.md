@@ -11,7 +11,7 @@ Throughout my career, I have balanced roles as a team lead, mentor, code archite
 
 Currently I am exploring possibilities in the emerging fields of AI and AR/VR, by developing applications in Generative AI and Vision OS, via personal projects.
 
-✍️ **Technical Writer**: I share my development insights and tutorials on my blog **[Code Joy](https://code-joy.hashnode.dev)** where I write about iOS development, React Native, and software engineering best practices.
+✍️ **Technical Writer**: I share my development insights and tutorials on my blog **[Code Joy](https://code-joy.hashnode.dev)** where I write about IoT, Networking, Programming and AI, through the lens of iOS application development.
 
 ## 🛠️ Tech Stack
 
@@ -30,11 +30,10 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 - **[WiPeerKit](https://github.com/vincentjoy/WiPeerKit)** - A complete Swift framework for secure peer-to-peer communication over local Wi-Fi networks
 - **[SimpleAuthSDK](https://github.com/vincentjoy/SimpleAuthSDK)** - A lightweight Authentication SDK in Swift
 - **[LoggerSDK](https://github.com/vincentjoy/LoggerSDK)** - Thread-safe logging utility with flexible severity levels and in-memory storage
-- **[NetworkManager](https://github.com/vincentjoy/NetworkManager)** - Reusable network managers for API calls and image downloading
 
 ### 🎨 SwiftUI Applications
 - **[FitnessAgent](https://github.com/vincentjoy/FitnessAgent)** - A SwiftUI app to track fitness activities
-- **[SwiftfulSwiftUiInPractice](https://github.com/vincentjoy/SwiftfulSwiftUiInPractice)** - Advanced SwiftUI skills development project
+- **[SwiftfulSwiftUiInPractice](https://github.com/vincentjoy/SwiftfulSwiftUiInPractice)** - Project to practise advanced SwiftUI skills by developing UIs of Bumble, Netflix and Spotify
 - **[ChargerScheduler](https://github.com/vincentjoy/ChargerScheduler)** - Efficient scheduling application for EV truck chargers
 
 ### 🥽 VisionOS & AR/VR Development
@@ -68,10 +67,9 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 ## 🐍 Python & Django Projects
 
 ### 🎬 Web Applications
-- **[movies_db](https://github.com/vincentjoy/movies_db)** - Movie database management system
 - **[ecommerce](https://github.com/vincentjoy/ecommerce)** - Django REST Framework e-commerce API
 - **[blog](https://github.com/vincentjoy/blog)** - Sample blog application for Django learning
-- **[CineMuse](https://github.com/vincentjoy/CineMuse)** - AI-powered movie recommendation system with poster recognition
+- **[movies_db](https://github.com/vincentjoy/movies_db)** - Movie database management system
 
 ### 🛠️ API Development
 - **[recipe-app-api](https://github.com/vincentjoy/recipe-app-api)** - Recipe management API built with Django
@@ -87,12 +85,11 @@ I regularly share my development experiences, tutorials, and insights on my tech
 
 ### 📝 [Code Joy Blog](https://code-joy.hashnode.dev)
 A space where I document my journey through iOS development, React Native, Django, and emerging technologies like GenAI and VisionOS. Topics include:
-- Swift and iOS development best practices
-- React Native tips and tricks
-- Django REST API development
+- IoT best practices
+- RAG based AI agentic systems
 - AR/VR development insights
-- IoT and AI
-- Software engineering methodologies
+- Programming best practises and deep theories in Swift, Javascript and Python
+- I try to connect each blog post with a corresponding project in Github, so that users can check the parctical implementation while reading about the theory and concepts
 
 *"Sharing knowledge makes the entire developer community stronger"* 🌟
 
