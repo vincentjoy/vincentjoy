@@ -89,7 +89,7 @@ A space where I document my journey through iOS development, React Native, Djang
 - RAG based AI agentic systems
 - AR/VR development insights
 - Programming best practises and deep theories in Swift, Javascript and Python
-- I try to connect each blog post with a corresponding project in Github, so that users can check the practical implementation while reading about the theory and concepts
+- I try to develop an opensource project in my Github and connect that wirh each blog post, so that users can check the practical implementation while reading about the theory and concepts
 
 *"Sharing knowledge makes the entire developer community stronger"* 🌟
 
@@ -108,10 +108,10 @@ A space where I document my journey through iOS development, React Native, Djang
 
 - 🎯 **11 years** of native iOS development expertise
 - 📱 **VisionOS** early adopter with spatial computing apps
-- 🛜 **IoT** expert in IoT application integration in mobile apps
+- 🛜 **IoT** expert in connecting smart devices with mobile apps
 - 🔄 **Cross-platform** experience with React Native and Expo
 - 🌐 **Full-stack** capabilities with Django REST APIs
-- 🤖 **AI Integration** experience with machine learning features
+- 🤖 **AI Integration** experience in both - apps running ML models locally on device (edge AI) and also those powered by RAG based Agentic backend systems
 - 📦 **Open Source** contributor with multiple MIT-licensed SDKs
 - ✍️ **Technical Writer** sharing knowledge through blog posts and tutorials
 
