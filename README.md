@@ -26,12 +26,17 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 
 ## 📱 iOS Development Projects
 
+### 🛜 IoT Projects
+- **[MQTTChat](https://github.com/vincentjoy/MQTTChat)** - A full-featured iOS chat application demonstrating MQTT protocol implementation using CocoaMQTT library
+- **[WiPeerKit](https://github.com/vincentjoy/WiPeerKit)** - A complete Swift framework for secure peer-to-peer communication over local Wi-Fi networks
+
 ### 🔧 SDKs & Frameworks
 - **[WiPeerKit](https://github.com/vincentjoy/WiPeerKit)** - A complete Swift framework for secure peer-to-peer communication over local Wi-Fi networks
 - **[SimpleAuthSDK](https://github.com/vincentjoy/SimpleAuthSDK)** - A lightweight Authentication SDK in Swift
 - **[LoggerSDK](https://github.com/vincentjoy/LoggerSDK)** - Thread-safe logging utility with flexible severity levels and in-memory storage
 
 ### 🎨 SwiftUI Applications
+- **[MQTTChat](https://github.com/vincentjoy/MQTTChat)** - A SwiftUI chat application demonstrating MQTT protocol implementation
 - **[FitnessAgent](https://github.com/vincentjoy/FitnessAgent)** - A SwiftUI app to track fitness activities
 - **[SwiftfulSwiftUiInPractice](https://github.com/vincentjoy/SwiftfulSwiftUiInPractice)** - Project to practise advanced SwiftUI skills by developing UIs of Bumble, Netflix and Spotify
 - **[ChargerScheduler](https://github.com/vincentjoy/ChargerScheduler)** - Efficient scheduling application for EV truck chargers
@@ -40,7 +45,6 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 - **[WindowsProject](https://github.com/vincentjoy/WindowsProject)** - My first VisionOS application
 - **[VisionOS_WithSwiftData](https://github.com/vincentjoy/VisionOS_WithSwiftData)** - Vision OS app utilizing Apple's SwiftData persistence framework
 - **[VoiceARRobot](https://github.com/vincentjoy/VoiceARRobot)** - AR app featuring a voice-controlled AI assistant
-- **[HelloWorldForAR](https://github.com/vincentjoy/HelloWorldForAR)** - First AR project using Apple's SceneKit
 - **[ARWeatherAppApp](https://github.com/vincentjoy/ARWeatherAppApp)** - Augmented reality weather app built with SwiftUI
 
 ### 🔗 Advanced iOS Features
@@ -66,7 +70,7 @@ Currently I am exploring possibilities in the emerging fields of AI and AR/VR, b
 
 ## 🐍 Python & Django Projects
 
-### 🎬 Web Applications
+### 🕸️ Web Applications
 - **[ecommerce](https://github.com/vincentjoy/ecommerce)** - Django REST Framework e-commerce API
 - **[blog](https://github.com/vincentjoy/blog)** - Sample blog application for Django learning
 - **[movies_db](https://github.com/vincentjoy/movies_db)** - Movie database management system
